@@ -8,3 +8,4 @@ KKR
 
 DC
 KXIP
+IPL
