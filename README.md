@@ -9,3 +9,6 @@ SRH
 
 DC
 KXIP
+IPL
+BBL
+PSL
