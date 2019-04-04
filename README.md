@@ -10,3 +10,4 @@ DC
 KXIP
 IPL
 BBL
+PSL
