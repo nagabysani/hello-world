@@ -7,3 +7,5 @@ RCB
 KKR
 SRH
 
+DC
+KXIP
